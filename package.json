@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --history-api-fallback --inline --progress"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "webpack": "^4.43.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "simplex-noise": "^2.4.0",
+    "three": "^0.116.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
