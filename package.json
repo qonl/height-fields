@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "simplex-noise": "^2.4.0",
-    "three": "^0.116.1",
+    "three": "^0.137.0",
     "webpack-cli": "^3.3.11"
   }
 }
